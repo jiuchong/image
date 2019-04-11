@@ -1,2 +1,2 @@
 # image
-save my images
+个人图片外链
